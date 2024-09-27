@@ -34,7 +34,7 @@
     <string name="refresh_message_error_one">Could not refresh subscription: %1$s</string>
 
     <!-- Main activity: Action bar -->
-    <string name="main_action_bar_title">Subscribed topics</string>
+    <string name="main_action_bar_title" >Subscribed topics</string>
     <string name="main_menu_notifications_enabled">Notifications on</string>
     <string name="main_menu_notifications_disabled_forever">Notifications muted</string>
     <string name="main_menu_notifications_disabled_until">Notifications muted until %1$s</string>
